@@ -4,5 +4,5 @@ A relatively simple website to display news, made using HTML and CSS Grid Layout
 
 # Lessons covered in making of the website
 
-CSS Grid 
-Responsive Media Queries
+* CSS Grid 
+* Responsive Media Queries
